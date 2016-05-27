@@ -14,4 +14,8 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-Extra line in the Second branch
+This is a change for ticket#9900  
+Another day, another change, still working on 9900  
+Added a new line and forced above line to break.
+
+**Can you believe we forgot this line!?**
