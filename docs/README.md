@@ -20,7 +20,8 @@ Added a new line and forced above line to break.
 
 **Can you believe we forgot this line!?**
 
-Image from docs:
-![baby balloon](babytrump1.jpg "Brits Love Trump")
+Image from docs:  
+![baby balloon][balloon]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[balloon]: babytrump1.jpg "Brits Love Trump"
