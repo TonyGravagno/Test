@@ -1,6 +1,7 @@
 # Test README
 
 This repo is only here for testing repo operations, markup, etc.
+This README.md file is served from the docs folder, not root!
 
 ---
 
